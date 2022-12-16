@@ -2,7 +2,7 @@ apiVersion: backstage.io/v1alpha1
 kind: API
 metadata:
   name: petstore-cai
-  description: The Petstore API
+  description: The Petstore API from CAI
 spec:
   type: openapi
   lifecycle: production
